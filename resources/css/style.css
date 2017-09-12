@@ -1,0 +1,21 @@
+.beaches li{
+  color: blue;
+}
+
+.headers {
+  font-size: 1.2em;
+  color: hsla(165, 100%, 20%, 1);
+}
+
+.paradise {
+  color: hsla(165, 100%, 35%, 1);
+}
+
+.descriptions {
+  color:inherit;
+  font-weight: bold;
+}
+
+html {
+  font-family: helvetica, sans-serif;
+}
